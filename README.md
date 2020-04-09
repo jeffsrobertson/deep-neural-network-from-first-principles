@@ -28,5 +28,6 @@ The __name__ == '__main__' block near the end of the script demonstrates how to 
  <b>Future improvements:</b>
  - Implement options for training optimization algorithms (Adam, Adagrad, etc)
  - Mini-batching customization
+ - Regularization methods to prevent overfitting
  - 2D and 3D Convolutional layers
  - 2D and 3D pooling layers
